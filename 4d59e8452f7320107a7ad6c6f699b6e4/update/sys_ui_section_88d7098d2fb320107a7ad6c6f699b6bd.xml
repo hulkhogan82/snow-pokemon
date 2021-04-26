@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="88d7098d2fb320107a7ad6c6f699b6bd" sys_domain="global" table="x_522258_pokemon_trainers" version="3" view="AtulView">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-26 21:03:53</sys_created_on>
+            <sys_id>04d7098d2fb320107a7ad6c6f699b6d9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_522258_pokemon_trainers" sys_domain="global" view="c8d7098d2fb320107a7ad6c6f699b6b9">88d7098d2fb320107a7ad6c6f699b6bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-26 21:03:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-26 21:03:53</sys_created_on>
+            <sys_id>84d7098d2fb320107a7ad6c6f699b6d9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_522258_pokemon_trainers" sys_domain="global" view="c8d7098d2fb320107a7ad6c6f699b6b9">88d7098d2fb320107a7ad6c6f699b6bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-26 21:03:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-26 21:03:53</sys_created_on>
+            <sys_id>08d7098d2fb320107a7ad6c6f699b6d9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_522258_pokemon_trainers" sys_domain="global" view="c8d7098d2fb320107a7ad6c6f699b6b9">88d7098d2fb320107a7ad6c6f699b6bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-26 21:03:53</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>original_cp</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-26 21:03:53</sys_created_on>
+            <sys_id>88d7098d2fb320107a7ad6c6f699b6d9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_522258_pokemon_trainers" sys_domain="global" view="c8d7098d2fb320107a7ad6c6f699b6b9">88d7098d2fb320107a7ad6c6f699b6bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-26 21:03:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_by</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-26 21:03:53</sys_created_on>
+            <sys_id>0cd7098d2fb320107a7ad6c6f699b6d9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_522258_pokemon_trainers" sys_domain="global" view="c8d7098d2fb320107a7ad6c6f699b6b9">88d7098d2fb320107a7ad6c6f699b6bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-26 21:03:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_522258_pokemon_trainers</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-26 21:03:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>88d7098d2fb320107a7ad6c6f699b6bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_522258_pokemon_trainers</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Pokemon Tracker" source="x_522258_pokemon">4d59e8452f7320107a7ad6c6f699b6e4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Pokemon Tracker">4d59e8452f7320107a7ad6c6f699b6e4</sys_scope>
+            <sys_update_name>sys_ui_section_88d7098d2fb320107a7ad6c6f699b6bd</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-26 21:03:53</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="AtulView" name="AtulView">c8d7098d2fb320107a7ad6c6f699b6b9</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

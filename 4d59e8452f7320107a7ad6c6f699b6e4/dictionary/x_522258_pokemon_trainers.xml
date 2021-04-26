@@ -2,5 +2,6 @@
     <element label="trainers" max_length="40" name="x_522258_pokemon_trainers" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Original CP" max_length="40" name="original_cp" type="string"/>
     </element>
 </database>
