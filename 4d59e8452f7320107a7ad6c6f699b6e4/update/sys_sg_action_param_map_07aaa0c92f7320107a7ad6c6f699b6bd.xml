@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (Tasks)">c3aaa0c92f7320107a7ad6c6f699b694</button>
+        <item_parameter display_value="Tasks cmdb_ci">47aaa0c92f7320107a7ad6c6f699b693</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-26 18:56:35</sys_created_on>
+        <sys_id>07aaa0c92f7320107a7ad6c6f699b6bd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>47aaa0c92f7320107a7ad6c6f699b693</sys_name>
+        <sys_package display_value="Pokemon Tracker" source="x_522258_pokemon">4d59e8452f7320107a7ad6c6f699b6e4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pokemon Tracker">4d59e8452f7320107a7ad6c6f699b6e4</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_07aaa0c92f7320107a7ad6c6f699b6bd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-26 18:56:35</sys_updated_on>
+        <ui_parameter display_value="Configuration item">03aaa0c92f7320107a7ad6c6f699b6bc</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

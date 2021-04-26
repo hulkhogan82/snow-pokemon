@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="Pokemon Tracker Mobile">b6aaa0892f7320107a7ad6c6f699b687</applet_launcher>
+        <icon display_value="Home Pokemon Tracker Mobile">faaaa0892f7320107a7ad6c6f699b688</icon>
+        <label>Pokemon Tracker Mobile</label>
+        <roles>user,admin</roles>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-26 18:56:33</sys_created_on>
+        <sys_id>baaaa0892f7320107a7ad6c6f699b688</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Pokemon Tracker Mobile</sys_name>
+        <sys_package display_value="Pokemon Tracker" source="x_522258_pokemon">4d59e8452f7320107a7ad6c6f699b6e4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pokemon Tracker">4d59e8452f7320107a7ad6c6f699b6e4</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_baaaa0892f7320107a7ad6c6f699b688</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-26 18:56:33</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>
