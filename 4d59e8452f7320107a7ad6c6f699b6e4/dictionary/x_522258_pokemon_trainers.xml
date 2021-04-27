@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="trainers" max_length="40" name="x_522258_pokemon_trainers" type="collection">
+    <element label="trainers" max_length="40" name="x_522258_pokemon_trainers" sizeclass="1" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element label="Original CP" max_length="40" name="original_cp" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Other" max_length="40" name="other" type="string"/>
     </element>
 </database>

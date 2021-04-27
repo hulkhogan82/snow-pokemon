@@ -1,3 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="tasks_request" max_length="40" name="x_522258_pokemon_tasks" type="collection"/>
+    <element extends="task" label="tasks_request" max_length="40" name="x_522258_pokemon_tasks" sizeclass="0" type="collection"/>
 </database>
